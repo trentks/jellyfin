@@ -178,7 +178,8 @@ namespace Emby.Naming.Common
                 "disc",
                 "disk",
                 "vol",
-                "volume"
+                "volume",
+                "digital media"
             };
 
             ArtistSubfolders = new[]
